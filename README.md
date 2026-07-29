@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gauravchandel777
 - 👀 I’m interested in work related to software
-- 🌱 I’m currently doing bca and i am in 6 th sem and also learned languages like
-- c,python,c++
+- 🌱 I’m currently doing mca and  and  have done various project on
+- c,python,c++ ,ml 
 - tools like=flask,sql and also libraries of python such as pandas,numpy,mongodb
 - 
 - 💞️ 
